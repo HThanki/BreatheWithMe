@@ -1,0 +1,30 @@
+* {
+  font-family: "Raleway", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#masterDiv {
+  margin: 15%;
+}
+
+#masterDiv h1 {
+  text-align: center;
+  border-bottom: black solid;
+  padding-bottom: 2%;
+  font-size: 3rem;
+}
+
+#page1 p {
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+label {
+  font-size: 1.2rem;
+}
+
+.Title {
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 2% 0%;
+}
