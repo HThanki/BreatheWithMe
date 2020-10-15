@@ -28,3 +28,17 @@ label {
   justify-content: space-between;
   padding: 2% 0%;
 }
+
+.Question {
+  width: 35%;
+}
+
+.Answer {
+  text-align: right;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#duration1, #duration2, #duration3 {
+
+}
